@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loan-total-comparison-navi.pages.dev/sitemap.xml

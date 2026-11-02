@@ -1,0 +1,183 @@
+{
+  "base": "https://loan-total-comparison-navi.pages.dev",
+  "date": "2026-11-02",
+  "pages": [
+    {
+      "route": "/",
+      "title": "借入条件・返済総額ナビ",
+      "noindex": false
+    },
+    {
+      "route": "/compare/",
+      "title": "公式条件で比較する",
+      "noindex": false
+    },
+    {
+      "route": "/comparison-table/",
+      "title": "金融商品の条件一覧表",
+      "noindex": false
+    },
+    {
+      "route": "/categories/major/",
+      "title": "大手消費者金融の公式条件",
+      "noindex": false
+    },
+    {
+      "route": "/categories/small/",
+      "title": "中小消費者金融の公式条件",
+      "noindex": false
+    },
+    {
+      "route": "/categories/bank/",
+      "title": "銀行カードローンの公式条件",
+      "noindex": false
+    },
+    {
+      "route": "/categories/consolidation/",
+      "title": "おまとめローンの対象債務と条件",
+      "noindex": false
+    },
+    {
+      "route": "/categories/refinance/",
+      "title": "借り換えローンの対象債務と条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/aiful/",
+      "title": "アイフル「キャッシングローン」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/acom/",
+      "title": "アコム「カードローン」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/mobit/",
+      "title": "SMBCモビット「フリーキャッシング」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/promise/",
+      "title": "プロミス「フリーキャッシング」の条件",
+      "noindex": true
+    },
+    {
+      "route": "/products/lake/",
+      "title": "レイク「レイク」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/central/",
+      "title": "セントラル「カードローン」の条件",
+      "noindex": true
+    },
+    {
+      "route": "/products/arrow/",
+      "title": "アロー「商品条件の照合待ち」の条件",
+      "noindex": true
+    },
+    {
+      "route": "/products/mufg/",
+      "title": "三菱UFJ銀行「バンクイック」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/smbc/",
+      "title": "三井住友銀行「カードローン」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/rakuten/",
+      "title": "楽天銀行「楽天銀行スーパーローン」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/acom-refinance/",
+      "title": "アコム「借換え専用ローン」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/products/aiful-consolidation/",
+      "title": "アイフル「おまとめMAX・かりかえMAX」の条件",
+      "noindex": false
+    },
+    {
+      "route": "/calculator/",
+      "title": "返済総額シミュレーター",
+      "noindex": false
+    },
+    {
+      "route": "/consolidation/",
+      "title": "おまとめ・借り換え総額シミュレーター",
+      "noindex": false
+    },
+    {
+      "route": "/guides/",
+      "title": "借入・返済の基礎知識",
+      "noindex": false
+    },
+    {
+      "route": "/guides/interest/",
+      "title": "利息はどう計算する？月利と日割りの違い",
+      "noindex": false
+    },
+    {
+      "route": "/guides/term-total/",
+      "title": "月々を下げると、返済総額はどう変わる？",
+      "noindex": false
+    },
+    {
+      "route": "/guides/rate-difference/",
+      "title": "金利の差を返済額で比べる",
+      "noindex": false
+    },
+    {
+      "route": "/guides/interest-free/",
+      "title": "無利息サービスは期間だけで比較しない",
+      "noindex": false
+    },
+    {
+      "route": "/guides/consolidation/",
+      "title": "借り換え・おまとめの対象債務を確かめる",
+      "noindex": false
+    },
+    {
+      "route": "/guides/regulation/",
+      "title": "銀行と消費者金融、総量規制の違い",
+      "noindex": false
+    },
+    {
+      "route": "/guides/help/",
+      "title": "返済が厳しいときの相談先",
+      "noindex": false
+    },
+    {
+      "route": "/about/",
+      "title": "運営者・お問い合わせ",
+      "noindex": false
+    },
+    {
+      "route": "/privacy/",
+      "title": "プライバシーポリシー",
+      "noindex": false
+    },
+    {
+      "route": "/editorial/",
+      "title": "比較・編集方針",
+      "noindex": false
+    },
+    {
+      "route": "/advertising/",
+      "title": "広告・アフィリエイトについて",
+      "noindex": false
+    },
+    {
+      "route": "/sources/",
+      "title": "公式出典・更新履歴",
+      "noindex": false
+    }
+  ],
+  "products": 12,
+  "verified": 9
+}
